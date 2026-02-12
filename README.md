@@ -68,4 +68,4 @@ Based on the data, we propose a surgical lending strategy for Zero-Tax applicant
 ## 📢 Conclusion
 We do not need to fear the "Zero." By managing the debt and verifying the equity, we can capture the market of innovators while protecting the bank's bottom line.
 
-*Author: Alberto | Tuburan*
+*Authors: [Alberto](https://github.com/paulo10011) & [Tuburan](https://github.com/alhtb)*
