@@ -53,10 +53,12 @@ Based on the data, we propose a surgical lending strategy for Zero-Tax applicant
 
 ---
 
-## 📂 Project Structure
-* `Final.ipynb`: The complete Python analysis including Data Cleaning, Random Forest modeling, and Visualization.
-* `Beyond_the_zero.pdf`: The executive slide deck presenting the findings.
-* `data.csv`: The dataset used for analysis.
+## 📂 Project Files & Code
+| File | Description | Access |
+| :--- | :--- | :--- |
+| **Final Analysis** | Full Random Forest pipeline: Data Cleaning, Feature Importance, and "Icarus Trap" Visualization. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alhtb/Beyond-The-Zero/blob/main/Final.ipynb) |
+| **Slides** | Executive Presentation (PDF). | [View PDF](Beyond%20the%20Zero.pdf) |
+| **Dataset** | The raw Taiwanese Bankruptcy Prediction dataset used for training. | [Download .csv](data.csv)<br>*(Preview unavailable due to size)* |
 
 ## 💻 Tech Stack
 * **Pandas:** Data manipulation and segmentation.
