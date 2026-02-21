@@ -3,14 +3,14 @@
 ![Library](https://img.shields.io/badge/Library-Scikit_Learn-orange)
 ![Status](https://img.shields.io/badge/Status-Complete-green)
 
-## 📌 Project Overview
+## ⋆‧°𓏲ּ𝄢 Project Overview
 This project analyzes the financial stability of companies that pay 0% tax. While this group is **12x more likely to face bankruptcy**, it represents nearly **38% of the total market** (2,568 companies).
 
 Traditional banking logic suggests rejecting this entire segment to minimize risk. However, a blanket rejection means missing out on "Growth Leaders"—innovative companies that pay zero tax because they are aggressively reinvesting in R&D and asset expansion.
 
 We developed a protocol using **Random Forest Classification** to help financial institutions identify these leaders while avoiding high-risk failures.
 
-## 📊 The Dataset
+## ⋆‧°𓏲ּ𝄢 The Dataset
 We utilized the **Taiwanese Bankruptcy Prediction** dataset consisting of **6,819 firms**. It includes 95 financial attributes such as:
 * **Debt Ratio %**
 * **Total Asset Growth Rate**
@@ -21,7 +21,7 @@ These indicators were used to train a machine learning model to differentiate be
 
 ---
 
-## 🔍 Key Business Insights
+## ⋆‧°𓏲ּ𝄢 Key Business Insights
 
 ### 1. The Paradox of the "Zero-Tax" Group
 While the bankruptcy rate is high (7.55%), the survivors in this group are actually **Innovation Engines**.
@@ -43,7 +43,7 @@ We identified a critical risk factor: **Unchecked Growth**.
 
 ---
 
-## 🛠️ The Solution: A 3-Step Lending Protocol
+## ⋆‧°𓏲ּ𝄢 The Solution: A 3-Step Lending Protocol
 
 Based on the data, we propose a surgical lending strategy for Zero-Tax applicants:
 
@@ -53,21 +53,21 @@ Based on the data, we propose a surgical lending strategy for Zero-Tax applicant
 
 ---
 
-## 📂 Project Files & Code
+## ⋆‧°𓏲ּ𝄢 Project Files & Code
 | File | Description | Access |
 | :--- | :--- | :--- |
 | **Final Analysis** | Full Random Forest pipeline: Data Cleaning, Feature Importance, and "Icarus Trap" Visualization. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alhtb/Beyond-The-Zero/blob/main/Final.ipynb) |
 | **Slides** | Executive Presentation (PDF). | [View PDF](Beyond%20the%20Zero.pdf) |
 | **Dataset** | The raw Taiwanese Bankruptcy Prediction dataset used for training. | [Download .csv](data.csv)<br>*(Preview unavailable due to size)* |
 
-## 💻 Tech Stack
+## ⋆‧°𓏲ּ𝄢 Tech Stack
 * **Pandas:** Data manipulation and segmentation.
 * **Scikit-Learn:** Random Forest Classifier for feature importance analysis.
 * **Seaborn/Matplotlib:** Visualizing the "Icarus Trap" and R&D comparisons.
 
 ---
 
-## 📢 Conclusion
+## ⋆‧°𓏲ּ𝄢 Conclusion
 We do not need to fear the "Zero." By managing the debt and verifying the equity, we can capture the market of innovators while protecting the bank's bottom line.
 
 *Authors: [Alberto](https://github.com/paulo10011) & [Tuburan](https://github.com/alhtb)*
